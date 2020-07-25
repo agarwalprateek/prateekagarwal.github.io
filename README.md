@@ -1,2 +1,2 @@
-# prateekagarwal.github.io
+# agarwalprateek.github.io
 Personal Blog
